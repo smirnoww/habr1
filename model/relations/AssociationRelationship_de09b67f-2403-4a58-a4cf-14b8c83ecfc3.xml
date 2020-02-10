@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="исключить"
+    id="de09b67f-2403-4a58-a4cf-14b8c83ecfc3">
+  <source
+      xsi:type="archimate:Gap"
+      href="Gap_77998e71-84b8-49a1-917c-c84863bf51c2.xml#77998e71-84b8-49a1-917c-c84863bf51c2"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_2ae8c89e-3d93-4bf1-8200-0c844abfc808.xml#2ae8c89e-3d93-4bf1-8200-0c844abfc808"/>
+</archimate:AssociationRelationship>

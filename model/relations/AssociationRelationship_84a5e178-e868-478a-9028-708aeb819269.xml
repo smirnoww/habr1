@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="вовлечь"
+    id="84a5e178-e868-478a-9028-708aeb819269">
+  <source
+      xsi:type="archimate:Gap"
+      href="Gap_77998e71-84b8-49a1-917c-c84863bf51c2.xml#77998e71-84b8-49a1-917c-c84863bf51c2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_fa6bb1f0-5f3f-41e9-ae2c-4b23d1514094.xml#fa6bb1f0-5f3f-41e9-ae2c-4b23d1514094"/>
+</archimate:AssociationRelationship>
