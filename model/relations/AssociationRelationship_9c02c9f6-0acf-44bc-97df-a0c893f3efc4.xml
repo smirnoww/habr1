@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="исключить"
+    id="9c02c9f6-0acf-44bc-97df-a0c893f3efc4"
+    directed="true">
+  <source
+      xsi:type="archimate:Gap"
+      href="Gap_54ca53b6-a00f-41f7-98ef-b913f3b8e4e5.xml#54ca53b6-a00f-41f7-98ef-b913f3b8e4e5"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_fbd4a452-496e-4fe4-89df-a77658c2aa14.xml#fbd4a452-496e-4fe4-89df-a77658c2aa14"/>
+</archimate:AssociationRelationship>
