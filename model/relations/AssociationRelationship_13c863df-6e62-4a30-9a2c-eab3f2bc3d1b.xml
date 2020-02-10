@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="добавить"
+    id="13c863df-6e62-4a30-9a2c-eab3f2bc3d1b"
+    directed="true">
+  <source
+      xsi:type="archimate:Gap"
+      href="Gap_54ca53b6-a00f-41f7-98ef-b913f3b8e4e5.xml#54ca53b6-a00f-41f7-98ef-b913f3b8e4e5"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ff245754-a19c-4b57-a6ae-1465e434a525.xml#ff245754-a19c-4b57-a6ae-1465e434a525"/>
+</archimate:AssociationRelationship>
