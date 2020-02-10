@@ -4,8 +4,8 @@
     id="61103b23-a4cc-4593-b3fb-dd5f2a5b32c6">
   <source
       xsi:type="archimate:BusinessActor"
-      href="BusinessActor_ba0221d7-60ea-46ed-8ee3-a2ef67659805.xml#ba0221d7-60ea-46ed-8ee3-a2ef67659805"/>
+      href="BusinessActor_69f5b764-6bdd-4a83-b592-de671f9945aa.xml#69f5b764-6bdd-4a83-b592-de671f9945aa"/>
   <target
-      xsi:type="archimate:BusinessObject"
-      href="BusinessObject_e6464f70-168d-4692-8e47-c785649b5f85.xml#e6464f70-168d-4692-8e47-c785649b5f85"/>
+      xsi:type="archimate:DataObject"
+      href="DataObject_8e1acef6-a4c4-429a-894b-839b2711ce85.xml#8e1acef6-a4c4-429a-894b-839b2711ce85"/>
 </archimate:AccessRelationship>
