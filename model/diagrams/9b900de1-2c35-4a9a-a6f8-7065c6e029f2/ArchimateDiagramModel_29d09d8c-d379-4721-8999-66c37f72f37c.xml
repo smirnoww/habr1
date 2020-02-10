@@ -74,7 +74,7 @@
       id="9754c407-c44d-4d9b-9310-60a3e038e28c"
       targetConnections="00d7aefc-37a8-4cd8-bd32-2d06ebcdb779 64fbaac6-23b2-4f54-b8d0-818eac938288">
     <bounds
-        x="924"
+        x="840"
         y="192"
         width="120"
         height="55"/>
@@ -87,7 +87,7 @@
       id="b9136075-99fc-4fe1-a70e-7b50c4318658"
       targetConnections="183c872c-a016-4dc0-b618-a61c935d7e98">
     <bounds
-        x="924"
+        x="840"
         y="72"
         width="120"
         height="55"/>
