@@ -29,10 +29,10 @@
           href="AssociationRelationship_257d3a08-6cb0-420c-a34d-42e9c320c883.xml#257d3a08-6cb0-420c-a34d-42e9c320c883"/>
     </sourceConnections>
     <bounds
-        x="56"
-        y="315"
-        width="120"
-        height="55"/>
+        x="48"
+        y="303"
+        width="136"
+        height="79"/>
     <archimateElement
         xsi:type="archimate:Plateau"
         href="Plateau_b4772910-feda-4de0-b44c-764c95a0b569.xml#b4772910-feda-4de0-b44c-764c95a0b569"/>
@@ -42,10 +42,10 @@
       id="f10d4fa4-17d3-442a-9843-7040b20eccf8"
       targetConnections="b8c7c94b-ac26-41b5-b17e-2426d7be5451 9e41ea7f-2c6d-4da1-9a65-09e1ecdf5369">
     <bounds
-        x="743"
-        y="327"
-        width="120"
-        height="55"/>
+        x="729"
+        y="312"
+        width="148"
+        height="85"/>
     <archimateElement
         xsi:type="archimate:Plateau"
         href="Plateau_84bb69ce-ab9d-4d48-9f4d-808336d49967.xml#84bb69ce-ab9d-4d48-9f4d-808336d49967"/>
