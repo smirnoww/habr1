@@ -131,7 +131,7 @@
           href="TriggeringRelationship_7a7fec04-5d2a-41c7-bfc4-5c34b054a08d.xml#7a7fec04-5d2a-41c7-bfc4-5c34b054a08d"/>
     </sourceConnections>
     <bounds
-        x="756"
+        x="731"
         y="190"
         width="120"
         height="55"/>
@@ -411,9 +411,10 @@
           source="54e06c04-d5a2-410a-8f69-1772f619ebe5"
           target="4db05167-6df2-497c-8585-860c3f526145">
         <bendpoints
-            startX="333"
-            startY="-8"
-            endY="162"/>
+            startX="301"
+            startY="-3"
+            endX="1"
+            endY="167"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_f27e8180-fc35-4925-88c9-41574f3e4d78.xml#f27e8180-fc35-4925-88c9-41574f3e4d78"/>
@@ -511,8 +512,8 @@
           href="TriggeringRelationship_15aa3c1d-8780-4a11-ac30-29c02c562416.xml#15aa3c1d-8780-4a11-ac30-29c02c562416"/>
     </sourceConnections>
     <bounds
-        x="626"
-        y="25"
+        x="612"
+        y="26"
         width="120"
         height="55"/>
     <archimateElement
@@ -542,7 +543,7 @@
           href="TriggeringRelationship_e8e095d6-bfaa-4ee5-ae8a-cbfd76f45929.xml#e8e095d6-bfaa-4ee5-ae8a-cbfd76f45929"/>
     </sourceConnections>
     <bounds
-        x="756"
+        x="731"
         y="336"
         width="120"
         height="55"/>
@@ -564,7 +565,7 @@
           href="TriggeringRelationship_7fe8c3f1-5886-4b8c-9139-e885a04abbf8.xml#7fe8c3f1-5886-4b8c-9139-e885a04abbf8"/>
     </sourceConnections>
     <bounds
-        x="697"
+        x="664"
         y="210"
         width="15"
         height="15"/>
@@ -587,7 +588,7 @@
           href="TriggeringRelationship_75aca4c3-fe27-4e26-8977-398085341e7d.xml#75aca4c3-fe27-4e26-8977-398085341e7d"/>
     </sourceConnections>
     <bounds
-        x="756"
+        x="731"
         y="264"
         width="120"
         height="55"/>
@@ -609,7 +610,7 @@
           href="TriggeringRelationship_aebac9b3-bcf3-4b25-b03f-96d2a0559159.xml#aebac9b3-bcf3-4b25-b03f-96d2a0559159"/>
     </sourceConnections>
     <bounds
-        x="924"
+        x="899"
         y="300"
         width="169"
         height="55"/>
@@ -640,7 +641,7 @@
           href="TriggeringRelationship_7dc72909-ab07-4644-a673-5dc0d02610cb.xml#7dc72909-ab07-4644-a673-5dc0d02610cb"/>
     </sourceConnections>
     <bounds
-        x="924"
+        x="899"
         y="372"
         width="169"
         height="55"/>
@@ -654,7 +655,7 @@
       targetConnections="da876c8b-9849-4a1e-96b4-fb211b2e539a"
       font="1|Segoe UI Semibold|12.0|0|WINDOWS|1|-16|0|0|0|600|0|0|0|-52|3|2|1|34|Segoe UI Semibold">
     <bounds
-        x="1152"
+        x="1127"
         y="300"
         width="133"
         height="55"/>
