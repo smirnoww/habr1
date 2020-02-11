@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Preliminary"
+    name="Preliminary - how we do architecture"
     id="6febe3a5-aba2-43d7-a1a2-dfbc0d7b6d35">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
