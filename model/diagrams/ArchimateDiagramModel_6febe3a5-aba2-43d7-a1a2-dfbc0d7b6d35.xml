@@ -26,7 +26,7 @@
     </sourceConnections>
     <bounds
         x="473"
-        y="36"
+        y="180"
         width="120"
         height="55"/>
     <archimateElement
@@ -60,7 +60,7 @@
           href="InfluenceRelationship_df53d3f0-bae3-4a16-b682-ac551ffcae58.xml#df53d3f0-bae3-4a16-b682-ac551ffcae58"/>
     </sourceConnections>
     <bounds
-        x="204"
+        x="240"
         y="302"
         width="169"
         height="75"/>
@@ -99,8 +99,8 @@
       id="47fbdf43-9f2f-4706-88a0-ee3ebdee88a0"
       targetConnections="78f315f2-8ddd-4dfc-b99d-e4f4032b4bf9 9bb1b99f-a010-4560-b322-a15775c84823">
     <bounds
-        x="222"
-        y="36"
+        x="258"
+        y="180"
         width="133"
         height="55"/>
     <archimateElement
