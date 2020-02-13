@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Организация"
-    id="ba0221d7-60ea-46ed-8ee3-a2ef67659805"/>
+    id="ba0221d7-60ea-46ed-8ee3-a2ef67659805"
+    documentation="Наша организация&#xD;&#xA;"/>
