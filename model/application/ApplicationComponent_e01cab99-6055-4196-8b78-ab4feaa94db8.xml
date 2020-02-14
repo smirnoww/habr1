@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ИС Прогноз"
-    id="e01cab99-6055-4196-8b78-ab4feaa94db8"/>
+    name="Система прогнозирования"
+    id="e01cab99-6055-4196-8b78-ab4feaa94db8"
+    documentation="Аккумулирует планы по вовлечению материалов в производство"/>
